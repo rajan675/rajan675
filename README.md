@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @rajan675
-- 👀 I’m interested in app develpment
-- 🌱 I’m currently learning kotlin
-- 📫 Contact no- 6392987014
+Hi 👋, I'm Rajan SIngh
+Student at BBD, Lucknow🌟
 
 <!---
 rajan675/rajan675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
